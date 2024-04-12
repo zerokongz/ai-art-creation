@@ -1,0 +1,15 @@
+{  
+  "name": "ai-art-creation",  
+  "version": "5.2.2",  
+  "description": "AI数据多样化处理脚本。",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"启动index.js"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/ai-art-creation"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/ai-art-creation"  
+}
